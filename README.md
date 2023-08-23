@@ -6,10 +6,10 @@
 
 -   🇧🇷  De Brasília-DF, Brasil
 -   💻  Desenvolvedor Full-Stack na Digitrack com Java e Angular.
--   🏃  Estudando com afinco Python, Software Engineering, Machine Learning, Deep Learning e IA.
+-   🏃  Estudando com afinco Software Engineering, Machine Learning, Deep Learning.
 
 ### [](https://github.com/gabriel-dotcom/gabriel-gois#about-me)About me
 
 -   🇧🇷  From Brasília-DF, Brazil
 -   💻  Full-Stack Developer at Digitrack with Java and Angular.
--   🏃  Studying hard Python, Software Engineering, Machine Learning, Deep Learning e AI.
+-   🏃  Studying hard Software Engineering, Machine Learning, Deep Learning e AI.
